@@ -1,0 +1,13 @@
+h1 {
+    font-weight: bold;
+}
+
+img {
+    width: 150px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
